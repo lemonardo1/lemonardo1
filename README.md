@@ -52,7 +52,7 @@ I am currently studying at Yonsei University College of Medicine. I'm passionate
 ## 🌐 Links
 - [Personal Site](https://sites.google.com/view/lemonaa)
 - [Naver Blog](https://blog.naver.com/sht06202)
-- [Portfolio](https://lemonaa.myportfolio.com/)
+- [Photography portfolio](https://lemonaa.myportfolio.com/)
 
 
 ## 💻 Skills

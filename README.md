@@ -1,6 +1,7 @@
 # 🩺 About Me
-안녕하세요. 의학을 공부하고 있는 김대성입니다.  
-I'm passionate about medicine.
+안녕하세요. 암환자를 위한 플랫폼을 개발하는 김대성입니다.
+
+I'm passionate about oncology, biotechnology and AI.
 
 ## 📞 Contact Details 
 - Email: [lemonaatree@gmail.com](mailto:lemonaatree@gmail.com)
